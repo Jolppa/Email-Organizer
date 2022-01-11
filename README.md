@@ -11,10 +11,18 @@ npm install
 
 ## Usage
 
-as of now (11.1.22), the app will just login to your gmail account using puppeteer.
+As of now (11.1.22), the app will just login to your gmail account using puppeteer. It will not organize anything.
 
 run the following command in the api folder:
 
 ```bash
 npm run dev
 ```
+
+## Todo
+
+- [ ] Code commenting
+- [ ] Proper error handling
+- [ ] Actual organizer logic
+- [ ] UI polishing
+
